@@ -1,0 +1,3 @@
+interface FoodItem {
+    double getCost();
+}
